@@ -37,3 +37,10 @@ Salesforce-Developer-Internship/
 │── Automation-Tools/
 │── Documentation/
 │── README.md
+
+---
+
+## Author
+👩‍💻 **Kommineni Rekha Chowdary**  
+- [LinkedIn](https://www.linkedin.com/in/kommineni-rekha-chowdary)  
+ - 📧 rekhachowdarykommineni@gmail.com  
